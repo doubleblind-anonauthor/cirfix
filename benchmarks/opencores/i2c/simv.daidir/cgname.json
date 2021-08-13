@@ -1,0 +1,26 @@
+{
+    "std": [
+        "std",
+        "reYIK",
+        "module",
+        1
+    ],
+    "tst_bench_top": [
+        "tst_bench_top",
+        "sf4HQ",
+        "module",
+        2
+    ],
+    "i2c_master_top": [
+        "i2c_master_top",
+        "Kr4JE",
+        "module",
+        3
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        4
+    ]
+}

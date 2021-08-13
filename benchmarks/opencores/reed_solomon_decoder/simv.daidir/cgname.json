@@ -1,0 +1,62 @@
+{
+    "GF_mult_add_syndromes": [
+        "GF_mult_add_syndromes",
+        "i9eq0",
+        "module",
+        9
+    ],
+    "std": [
+        "std",
+        "reYIK",
+        "module",
+        1
+    ],
+    "GF_matrix_dec": [
+        "GF_matrix_dec",
+        "rV9FF",
+        "module",
+        3
+    ],
+    "transport_in2out": [
+        "transport_in2out",
+        "PiYAP",
+        "module",
+        6
+    ],
+    "DP_RAM_0000": [
+        "DP_RAM_0000",
+        "T8fg6",
+        "module",
+        7
+    ],
+    "out_stage": [
+        "out_stage",
+        "v3Yxk",
+        "module",
+        8
+    ],
+    "RS_dec_tb": [
+        "RS_dec_tb",
+        "NxxnY",
+        "module",
+        2
+    ],
+    "input_syndromes": [
+        "input_syndromes",
+        "NWwcA",
+        "module",
+        5
+    ],
+    "GF_matrix_ascending_binary": [
+        "GF_matrix_ascending_binary",
+        "ULW4S",
+        "module",
+        4
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        10
+    ]
+}

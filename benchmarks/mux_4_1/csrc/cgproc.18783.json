@@ -1,0 +1,61 @@
+{
+    "reusePaths": {
+        "amcQw_d": {
+            "icPath": "csrc"
+        }
+    },
+    "Modules": {
+        "...MASTER...": {
+            "nMops": 0,
+            "end_perf": [
+                0.70549106597900391,
+                0.058515999999999999,
+                0.030303,
+                268936,
+                279584,
+                6942681549052825,
+                0,
+                0
+            ],
+            "start_perf": [
+                0.69349503517150879,
+                0.058331000000000001,
+                0.027630999999999999,
+                267500,
+                279584,
+                1626801566.975776,
+                6942681498639095
+            ],
+            "child_modules": {
+                "tb_4to1_mux": 1,
+                "std": 1
+            },
+            "nQuads": 0,
+            "nRouts": 5
+        }
+    },
+    "ObjArchives": [],
+    "CompUnits": {},
+    "stat": {
+        "ru_self_end": {
+            "ru_maxrss_kb": 68080,
+            "ru_utime_sec": 0.060095000000000003,
+            "ru_majflt": 0,
+            "ru_stime_sec": 0.031084000000000001,
+            "ru_minflt": 26869,
+            "ru_nvcsw": 36,
+            "ru_nivcsw": 15
+        },
+        "ru_childs_end": {
+            "ru_maxrss_kb": 17332,
+            "ru_utime_sec": 0.019220999999999999,
+            "ru_majflt": 0,
+            "ru_stime_sec": 0.010841,
+            "ru_minflt": 6908,
+            "ru_nvcsw": 16,
+            "ru_nivcsw": 13
+        },
+        "cpu_cycles_end": 6942681738365699,
+        "peak_mem_kb": 279584
+    }
+}

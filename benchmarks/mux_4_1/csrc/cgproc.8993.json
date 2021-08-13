@@ -1,0 +1,28 @@
+{
+    "Modules": {},
+    "CompUnits": {},
+    "reusePaths": {},
+    "stat": {
+        "peak_mem_kb": 279584,
+        "ru_self_end": {
+            "ru_stime_sec": 0.029152999999999998,
+            "ru_utime_sec": 0.058306999999999998,
+            "ru_maxrss_kb": 64536,
+            "ru_minflt": 25505,
+            "ru_nivcsw": 6,
+            "ru_majflt": 0,
+            "ru_nvcsw": 35
+        },
+        "ru_childs_end": {
+            "ru_stime_sec": 0.015918000000000002,
+            "ru_utime_sec": 0.009946,
+            "ru_maxrss_kb": 16872,
+            "ru_minflt": 6321,
+            "ru_nivcsw": 8,
+            "ru_majflt": 0,
+            "ru_nvcsw": 17
+        },
+        "cpu_cycles_end": 6772093722853342
+    },
+    "ObjArchives": []
+}
